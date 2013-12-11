@@ -5,6 +5,9 @@ recipes:
   - controllers
   - views
   - routes
+  - git
+  - ember
+  - readme
 
 prefs:
   :rvmrc: true
