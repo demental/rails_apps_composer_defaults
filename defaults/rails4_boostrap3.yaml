@@ -1,4 +1,13 @@
 recipes:
+  - core
+  - prelaunch
+  - email
+  - gems
+  - email_dev
+  - frontend
+  - init
+  - extras
+  - testing
   - setup
   - apps4
   - models
@@ -6,7 +15,6 @@ recipes:
   - views
   - routes
   - git
-  - ember
   - readme
 
 prefs:
@@ -33,6 +41,8 @@ prefs:
   :better_errors: true
   :ban_spiders: true
   :github: true
+  :mailcatcher: true
+  :mail_view: true
 gems:
 
 args:
