@@ -16,6 +16,8 @@ recipes:
   - routes
   - git
   - readme
+  - devise_i18n
+  - slimify
 
 prefs:
   :rvmrc: true

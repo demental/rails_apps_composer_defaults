@@ -1,4 +1,4 @@
-add_gem 'devise_i18n_views'
+add_gem 'devise-i18n-views'
 
 
 after_bundler do
